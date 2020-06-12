@@ -1,0 +1,22 @@
+﻿  maincpp.cpp
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(48,39): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(66,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(127,1): warning C4305: =: усечение из "double" в "float"
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(138,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(139,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(148,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(148,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(158,27): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(158,14): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(159,29): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(159,14): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(253,26): warning C4101: new_node: неиспользованная локальная переменная
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(387,7): warning C4101: par_x: неиспользованная локальная переменная
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(387,14): warning C4101: par_y: неиспользованная локальная переменная
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(388,33): warning C4101: new_node: неиспользованная локальная переменная
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(502,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(502,47): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(579,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(590,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Баклажан Баклажанов\source\repos\Derevo\maincpp.cpp(455): warning C4715: binary_search_tree::remove: значение возвращается не при всех путях выполнения
+  Derevo.vcxproj -> C:\Users\Баклажан Баклажанов\source\repos\Derevo\Debug\Derevo.exe
